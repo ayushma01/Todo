@@ -2,17 +2,12 @@
 
 # Description This is the Todo Application with some of the features such as,
 
-Login
-Dashboard For creating Todo List
-Menu
-providing Logout Facilities
-Toast showing the description activities
-Form For creating Todo
-recycle view
-Fragment
-Room Database
-Live Data
-Model
-View Model
-Util For date extraction
-Proper MVVM architecture 15 Android X where the API level are set to 29
+1. Login
+2. Dashboard For creating Todo List
+3. Menu
+4. providing Logout Facilities
+5. Toast showing the description activities
+6. Form For creating Todo
+7. recycle view
+8. Fragment
+9. Room Database
